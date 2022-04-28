@@ -1,0 +1,4 @@
+Pyqt5
+Pillow
+python
+openpyxl

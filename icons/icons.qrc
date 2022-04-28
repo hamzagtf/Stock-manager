@@ -1,0 +1,26 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>backup-file.png</file>
+    <file>m.png</file>
+    <file>expired.png</file>
+    <file>follow.png</file>
+    <file>ticket.png</file>
+    <file>remove-friend.png</file>
+    <file>delete-cart.png</file>
+    <file>remove-friend.png</file>
+    <file>add.png</file>
+    <file>add-to-cart.png</file>
+    <file>add-file.png</file>
+    <file>printer.png</file>
+    <file>search.png</file>
+    <file>update.png</file>
+    <file>remove.png</file>
+    <file>loan.png</file>
+    <file>exit.png</file>
+    <file>settings.png</file>
+    <file>script.png</file>
+    <file>cart.png</file>
+    <file>database.png</file>
+    <file>house.png</file>
+  </qresource>
+</RCC>
